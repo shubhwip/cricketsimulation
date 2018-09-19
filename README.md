@@ -1,8 +1,5 @@
 # CricketSimulation
-Simulatation the last 4 overs of the match. It's the last 4 overs of the match. Bengaluru needs 40 runs to win and with 4 wickets left. Each
-player has a different probability for scoring runs. Your coding problem is to simulate the match,
-ball by ball. The match simulation will require you to use a weighted random number generation
-based on probability to determine the runs scored per ball.
+CricketSimulation will be used to simulate the cricket match, ball by ball. The match simulation will require weighted random number generation based on probability to determine the runs scored per ball.
 
 ### Prerequisites
 - Java 8, Maven
