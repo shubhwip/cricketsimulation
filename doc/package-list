@@ -1,0 +1,7 @@
+com.simpl.cricketsimulation.exceptions
+com.simpl.cricketsimulation.gamestrategy
+com.simpl.cricketsimulation.model
+com.simpl.cricketsimulation.rules
+com.simpl.cricketsimulation.runner
+com.simpl.cricketsimulation.utils
+con.simpl.cricketsimulation.main
